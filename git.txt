@@ -1,0 +1,62 @@
+1 Git --version
+2 git config --global user.email "yadavkuldeepit@gmail.com"
+  git config --global user.password "punadafad"
+
+3 cd  C:\Users\Kuldeep Yadav\git\repository\My folder
+
+
+commands of git
+
+0  go to location of project   cd location of project
+
+1 go to the location of project and type git init
+ it will added the hidden folder by the name .git
+
+2 git status  it will tell the status of git
+
+3 type nul> filename  - it will create a file in folder
+
+4 git add filename.txt- to add the files in git
+
+5 git status - to check the status of git
+
+6 git commit -m " i m testing "
+
+7 git add *.txt   all the txt files will be added
+   
+8 git add *.*  = everything will be added
+
+9  git add.   it will add everything wihtin particular folder or project
+
+10 git remote add origin location of repositary
+
+11 git push -u origin master
+
+12 git log   it will show you the log whatever you have done.
+
+ 13 git --help   it will show you all the commannds
+
+
+dirc>>add>>commit>>remote path >>push
+
+
+1 To create a branch - git branch  branchname
+
+2 To checkout the branch -  git checkout branchname
+
+3 git push -u origin to mynewbranch
+
+4 git checkout master
+
+
+5 merge new branch to master branch  = git merge mynewbranch
+
+6 git push -u origin master  ( to push the changes in master)
+
+7 To delete a branch from local = git branch -d "branchname"
+
+8 to delete from git = git push origin --delete "branchname"
+
+
+
+
